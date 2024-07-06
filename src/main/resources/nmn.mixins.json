@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.nmn.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "num.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "ChatMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
